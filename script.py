@@ -1,4 +1,5 @@
 import os,sys
+import pyperclip
 
 # |0143|[Reorder List](https://leetcode.com/problems/reorder-list/) |[c++](./src/0143_Reorder_List/Reorder_List.cpp) |python|Medium|
 
@@ -15,4 +16,6 @@ if __name__ == "__main__":
         os.makedirs(path)
     file = open(path + '/' + name_ + '.cpp','w')
     file.close()
-    print('|' + sys.argv[1] + '|' + '[' + name + ']' + '(' + sys.argv[-2] + ')' + ' ' + '|' + '[c++](./src/' + sys.argv[1] + '_' + name_ + '/' + name_ + '.cpp) |python|' + sys.argv[-1] + '|')
+    text = '|' + sys.argv[1] + '|' + '[' + name + ']' + '(' + sys.argv[-2] + ')' + ' ' + '|' + '[c++](./src/' + sys.argv[1] + '_' + name_ + '/' + name_ + '.cpp) |python|' + sys.argv[-1] + '|'
+    print(text)
+    pyperclip.copy(text)
