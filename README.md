@@ -15,8 +15,11 @@
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |[c++](./src/0083_Remove_Duplicates_from_Sorted_List/Remove_Duplicates_from_Sorted_List.cpp) |python|Easy|
 |0086|[Partition List](https://leetcode.com/problems/partition-list/) |[c++](./src/0086_Partition_List/Partition_List.cpp) |python|Medium|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) |[c++](./src/0092_Reverse_Linked_List_II/Reverse_Linked_List_II.cpp) |python|Medium|
+|0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |[c++](./src/0094_Binary_Tree_Inorder_Traversal/Binary_Tree_Inorder_Traversal.cpp) |python|Medium|
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |[c++](./src/0101_Symmetric_Tree/Symmetric_Tree.cpp) |python|Easy|
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[c++](./src/0104_Maximum_Depth_of_Binary_Tree/Maximum_Depth_of_Binary_Tree.cpp) |python|Easy|
+|0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |[c++](./src/0108_Convert_Sorted_Array_to_Binary_Search_Tree/Convert_Sorted_Array_to_Binary_Search_Tree.cpp) |python|Easy|
+|0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |[c++](./src/0109_Convert_Sorted_List_to_Binary_Search_Tree/Convert_Sorted_List_to_Binary_Search_Tree.cpp) |python|Medium|
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |[c++](./src/0110_Balanced_Binary_Tree/Balanced_Binary_Tree.cpp) |python|Easy|
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |[c++](./src/0111_Minimum_Depth_of_Binary_Tree/Minimum_Depth_of_Binary_Tree.cpp) |python|Easy|
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) |[c++](./src/0112_Path_Sum/Path_Sum.cpp) |python|Easy|
@@ -24,20 +27,27 @@
 |0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |[c++](./src/0142_Linked_List_Cycle_II/Linked_List_Cycle_II.cpp) |python|Medium|
 |0143|[Reorder List](https://leetcode.com/problems/reorder-list/) |[c++](./src/0143_Reorder_List/Reorder_List.cpp) |python|Medium|
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |[c++](./src/0144_Binary_Tree_Preorder_Traversal/Binary_Tree_Preorder_Traversal.cpp) |python|Medium|
+|0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) |[c++](./src/0145_Binary_Tree_Postorder_Traversal/Binary_Tree_Postorder_Traversal.cpp) |python|Hard|
 |0160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |[c++](./src/0160_Intersectio_of_Two_Linked_Lists/Intersectio_of_Two_Linked_Lists.cpp) |python|Easy|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |[c++](./src/0206_Reverse_Linked_List/Reverse_Linked_List.cpp) |python|Easy|
 |0226|[Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/) |[c++](./src/0226_Invert_Binary_Tree/Invert_Binary_Tree.cpp) |python|Easy|
+|0230|[Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/) |[c++](./src/0230_Kth_Smallest_Element_in_a_BST/Kth_Smallest_Element_in_a_BST.cpp) |python|Medium|
 |0234|[Palindrome Linked List](https://leetcode.com/problems/palindrome-linked-list/) |[c++](./src/0234_Palindrome_Linked_List/Palindrome_Linked_List.cpp) |python|Easy|
+|0235|[Lowest Common Ancestor of a Binary Search Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree/) |[c++](./src/0235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree/Lowest_Common_Ancestor_of_a_Binary_Search_Tree.cpp) |python|Easy|
+|0236|[Lowest Common Ancestor of a Binary Tree](https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree/) |[c++](./src/0236_Lowest_Common_Ancestor_of_a_Binary_Tree/Lowest_Common_Ancestor_of_a_Binary_Tree.cpp) |python|Medium|
 |0328|[Odd Even Linked List](https://leetcode.com/problems/odd-even-linked-list/) |[c++](./src/0328_Odd_Even_Linked_List/Odd_Even_Linked_List.cpp) |python|Medium|
 |0337|[House Robber III](https://leetcode.com/problems/house-robber-iii/) |[c++](./src/0337_House_Robber_III/House_Robber_III.cpp) |python|Medium|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |[c++](./src/0404_Sum_of_Left_Leaves/Sum_of_Left_Leaves.cpp) |python|Easy|
 |0437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) |[c++](./src/0437_Path_Sum_III/Path_Sum_III.cpp) |python|Easy|
 |0445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) |[c++](./src/0445_Add_Two_Numbers_II/Add_Two_Numbers_II.cpp) |python|Medium|
 |0513|[Find Bottom Left Tree Value](https://leetcode.com/problems/find-bottom-left-tree-value/) |[c++](./src/0513_Find_Bottom_Left_Tree_Value/Find_Bottom_Left_Tree_Value.cpp) |python|Medium|
+|0538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |[c++](./src/0538_Convert_BST_to_Greater_Tree/Convert_BST_to_Greater_Tree.cpp) |python|Easy|
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) |[c++](./src/0543_Diameter_of_Binary_Tree/Diameter_of_Binary_Tree.cpp) |python|Easy|
 |0572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |[c++](./src/0572_Subtree_of_Another_Tree/Subtree_of_Another_Tree.cpp) |python|Easy|
 |0617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) |[c++](./src/0617_Merge_Two_Binary_Trees/Merge_Two_Binary_Trees.cpp) |python|Easy|
 |0637|[Average of Levels in Binary Tree](https://leetcode.com/problems/average-of-levels-in-binary-tree/) |[c++](./src/0637_Average_of_Levels_in_Binary_Tree/Average_of_Levels_in_Binary_Tree.cpp) |python|Easy|
+|0653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |[c++](./src/0653_Two_Sum_IV-Input_is_a_BST/Two_Sum_IV-Input_is_a_BST.cpp) |python|Easy|
+|0669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |[c++](./src/0669_Trim_a_Binary_Search_Tree/Trim_a_Binary_Search_Tree.cpp) |python|Easy|
 |0671|[Second Minimum Node In a Binary Tree](https://leetcode.com/problems/second-minimum-node-in-a-binary-tree/) |[c++](./src/0671_Second_Minimum_Node_In_a_Binary_Tree/Second_Minimum_Node_In_a_Binary_Tree.cpp) |python|Easy|
 |0687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) |[c++](./src/0687_Longest_Univalue_Path/Longest_Univalue_Path.cpp) |python|Easy|
 |0725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) |[c++](./src/0725_Split_Linked_List_in_Parts/Split_Linked_List_in_Parts.cpp) |python|Medium|
