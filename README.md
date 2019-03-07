@@ -1,4 +1,5 @@
 # LeetCode_Diary
+### 76/999 solved (Since 2019.2.27)
 
 | # | Title | c++ | python | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
