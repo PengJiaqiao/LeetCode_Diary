@@ -6,6 +6,7 @@
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) |[c++](./src/0001_Two_Sum/Two_Sum.cpp) |python|Easy|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |[c++](./src/0002_Add_Two_Numbers/Add_Two_Numbers.cpp) |python|Medium|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[c++](./src/0009_Palindrome_Number/Palindrome_Number.cpp) |python|Easy|
+|0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |[c++](./src/0017_Letter_Combinations_of_a_Phone_Number/Letter_Combinations_of_a_Phone_Number.cpp) |python|Medium|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[c++](./src/0019_Remove_Nth_Node_From_End_of_List/Remove_Nth_Node_From_End_of_List.cpp) |python|Medium|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[c++](./src/0020_Valid_Parentheses/Valid_Parentheses.cpp) |python|Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[c++](./src/0021_Merge_Two_Sorted_Lists/Merge_Two_Sorted_Lists.cpp) |python|Easy|
@@ -13,16 +14,20 @@
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[c++](./src/0025_Reverse_Nodes_in_k-Group/Reverse_Nodes_in_k-Group.cpp) |python|Hard|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[c++](./src/0026_Remove_Duplicates_from_Sorted_Array/Remove_Duplicates_from_Sorted_Array.cpp) |python|Easy|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[c++](./src/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) |python|Medium|
+|0046|[Permutations](https://leetcode.com/problems/permutations/) |[c++](./src/0046_Permutations/Permutations.cpp) |python|Medium|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[c++](./src/0053_Maximum_Subarray/Maximum_Subarray.cpp) |python|Easy|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) |[c++](./src/0061_Rotate_List/Rotate_List.cpp) |python|Medium|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[c++](./src/0069_Sqrt_x/Sqrt_x.cpp) |python|Easy|
 |0075|[Sort Colors](https://leetcode.com/problems/sort-colors/) |[c++](./src/0075_Sort_Colors/Sort_Colors.cpp) |python|Medium|
+|0077|[Combinations](https://leetcode.com/problems/combinations/) |[c++](./src/0077_Combinations/Combinations.cpp) |python|Medium|
+|0079|[Word Search](https://leetcode.com/problems/word-search/) |[c++](./src/0079_Word_Search/Word_Search.cpp) |python|Medium|
 |0080|[Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) |[c++](./src/0080_Remove_Duplicates_from_Sorted_Array_II/Remove_Duplicates_from_Sorted_Array_II.cpp) |python|Medium|
 |0082|[Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) |[c++](./src/0082_Remove_Duplicates_from_Sorted_List_II/Remove_Duplicates_from_Sorted_List_II.cpp) |python|Medium|
 |0083|[Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) |[c++](./src/0083_Remove_Duplicates_from_Sorted_List/Remove_Duplicates_from_Sorted_List.cpp) |python|Easy|
 |0086|[Partition List](https://leetcode.com/problems/partition-list/) |[c++](./src/0086_Partition_List/Partition_List.cpp) |python|Medium|
 |0088|[Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) |[c++](./src/0088_Merge_Sorted_Array/Merge_Sorted_Array.cpp) |python|Easy|
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) |[c++](./src/0092_Reverse_Linked_List_II/Reverse_Linked_List_II.cpp) |python|Medium|
+|0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |[c++](./src/0093_Restore_IP_Addresses/Restore_IP_Addresses.cpp) |python|Medium|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |[c++](./src/0094_Binary_Tree_Inorder_Traversal/Binary_Tree_Inorder_Traversal.cpp) |python|Medium|
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |[c++](./src/0101_Symmetric_Tree/Symmetric_Tree.cpp) |python|Easy|
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[c++](./src/0104_Maximum_Depth_of_Binary_Tree/Maximum_Depth_of_Binary_Tree.cpp) |python|Easy|
@@ -34,7 +39,9 @@
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |[c++](./src/0121_Best_Time_to_Buy_and_Sell_Stock/Best_Time_to_Buy_and_Sell_Stock.cpp) |python|Easy|
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |[c++](./src/0122_Best_Time_to_Buy_and_Sell_Stock_II/Best_Time_to_Buy_and_Sell_Stock_II.cpp) |python|Easy|
 |0123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |[c++](./src/0123_Best_Time_to_Buy_and_Sell_Stock_III/Best_Time_to_Buy_and_Sell_Stock_III.cpp) |python|Hard|
+|0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) |[c++](./src/0127_Word_Ladder/Word_Ladder.cpp) |python|Medium|
 |0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[c++](./src/0128_Longest_Consecutive_Sequence/Longest_Consecutive_Sequence.cpp) |python|Hard|
+|0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) |[c++](./src/0130_Surrounded_Regions/Surrounded_Regions.cpp) |python|Medium|
 |0136|[Single Number](https://leetcode.com/problems/single-number/) |[c++](./src/0136_Single_Number/Single_Number.cpp) |python|Easy|
 |0141|[Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) |[c++](./src/0141_Linked_List_Cycle/Linked_List_Cycle.cpp) |python|Easy|
 |0142|[Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) |[c++](./src/0142_Linked_List_Cycle_II/Linked_List_Cycle_II.cpp) |python|Medium|
@@ -47,6 +54,7 @@
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |[c++](./src/0167_Two_Sum_II_Input_array_is_sorted/Two_Sum_II_Input_array_is_sorted.cpp) |python|Easy|
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) |[c++](./src/0190_Reverse_Bits/Reverse_Bits.cpp) |python|Easy|
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |[c++](./src/0191_Number_of_1_Bits/Number_of_1_Bits.cpp) |python|Easy|
+|0200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) |[c++](./src/0200_Number_of_Islands/Number_of_Islands.cpp) |python|Medium|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[c++](./src/0205_Isomorphic_Strings/Isomorphic_Strings.cpp) |python|Easy|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |[c++](./src/0206_Reverse_Linked_List/Reverse_Linked_List.cpp) |python|Easy|
 |0208|[Implement Trie (Prefix Tree)](https://leetcode.com/problems/implement-trie-prefix-tree/submissions/) |[c++](./src/0208_Implement_Trie_Prefix_Tree/Implement_Trie_Prefix_Tree.cpp) |python|Medium|
@@ -64,6 +72,7 @@
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |[c++](./src/0240_Search_a_2D_Matrix_II/Search_a_2D_Matrix_II.cpp) |python|Medium|
 |0241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) |[c++](./src/0241_Different_Ways_to_Add_Parentheses/Different_Ways_to_Add_Parentheses.cpp) |python|Medium|
 |0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[c++](./src/0242_Valid_Anagram/Valid_Anagram.cpp) |python|Easy|
+|0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[c++](./src/0257_Binary_Tree_Paths/Binary_Tree_Paths.cpp) |python|Easy|
 |0260|[Single Number III](https://leetcode.com/problems/single-number-iii/) |[c++](./src/0260_Single_Number_III/Single_Number_III.cpp) |python|Medium|
 |0268|[Missing Number](https://leetcode.com/problems/missing-number/) |[c++](./src/0268_Missing_Number/Missing_Number.cpp) |python|Easy|
 |0278|[First Bad Version](https://leetcode.com/problems/first-bad-version/) |[c++](./src/0278_First_Bad_Version/First_Bad_Version.cpp) |python|Easy|
@@ -84,6 +93,7 @@
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |[c++](./src/0404_Sum_of_Left_Leaves/Sum_of_Left_Leaves.cpp) |python|Easy|
 |0406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) |[c++](./src/0406_Queue_Reconstruction_by_Height/Queue_Reconstruction_by_Height.cpp) |python|Medium|
 |0409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[c++](./src/0409_Longest_Palindrome/Longest_Palindrome.cpp) |python|Easy|
+|0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) |[c++](./src/0417_Pacific_Atlantic_Water_Flow/Pacific_Atlantic_Water_Flow.cpp) |python|Medium|
 |0435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[c++](./src/0435_Non-overlapping_Intervals/Non-overlapping_Intervals.cpp) |python|Medium|
 |0437|[Path Sum III](https://leetcode.com/problems/path-sum-iii/) |[c++](./src/0437_Path_Sum_III/Path_Sum_III.cpp) |python|Easy|
 |0442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |[c++](./src/0442_Find_All_Duplicates_in_an_Array/Find_All_Duplicates_in_an_Array.cpp) |python|Medium|
@@ -105,6 +115,7 @@
 |0538|[Convert BST to Greater Tree](https://leetcode.com/problems/convert-bst-to-greater-tree/) |[c++](./src/0538_Convert_BST_to_Greater_Tree/Convert_BST_to_Greater_Tree.cpp) |python|Easy|
 |0540|[Single Element in a Sorted Array](https://leetcode.com/problems/single-element-in-a-sorted-array/) |[c++](./src/0540_Single_Element_in_a_Sorted_Array/Single_Element_in_a_Sorted_Array.cpp) |python|Medium|
 |0543|[Diameter of Binary Tree](https://leetcode.com/problems/diameter-of-binary-tree/) |[c++](./src/0543_Diameter_of_Binary_Tree/Diameter_of_Binary_Tree.cpp) |python|Easy|
+|0547|[Friend Circles](https://leetcode.com/problems/friend-circles/) |[c++](./src/0547_Friend_Circles/Friend_Circles.cpp) |python|Medium|
 |0565|[Array Nesting](https://leetcode.com/problems/array-nesting/) |[c++](./src/0565_Array_Nesting/Array_Nesting.cpp) |python|Medium|
 |0566|[Reshape the Matrix](https://leetcode.com/problems/reshape-the-matrix/) |[c++](./src/0566_Reshape_the_Matrix/Reshape_the_Matrix.cpp) |python|Easy|
 |0572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |[c++](./src/0572_Subtree_of_Another_Tree/Subtree_of_Another_Tree.cpp) |python|Easy|
@@ -124,6 +135,7 @@
 |0680|[Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) |[c++](./src/0680_Valid_Palindrome_II/Valid_Palindrome_II.cpp) |python|Easy|
 |0687|[Longest Univalue Path](https://leetcode.com/problems/longest-univalue-path/) |[c++](./src/0687_Longest_Univalue_Path/Longest_Univalue_Path.cpp) |python|Easy|
 |0693|[Binary Number with Alternating Bits](https://leetcode.com/problems/binary-number-with-alternating-bits/) |[c++](./src/0693_Binary_Number_with_Alternating_Bits/Binary_Number_with_Alternating_Bits.cpp) |python|Easy|
+|0695|[Max Area of Island](https://leetcode.com/problems/max-area-of-island/) |[c++](./src/0695_Max_Area_of_Island/Max_Area_of_Island.cpp) |python|Medium|
 |0696|[Count Binary Substrings](https://leetcode.com/problems/count-binary-substrings/) |[c++](./src/0696_Count_Binary_Substrings/Count_Binary_Substrings.cpp) |python|Easy|
 |0697|[Degree of an Array](https://leetcode.com/problems/degree-of-an-array/) |[c++](./src/0697_Degree_of_an_Array/Degree_of_an_Array.cpp) |python|Easy|
 |0725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) |[c++](./src/0725_Split_Linked_List_in_Parts/Split_Linked_List_in_Parts.cpp) |python|Medium|
