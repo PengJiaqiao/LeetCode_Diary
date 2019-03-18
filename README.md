@@ -1,7 +1,9 @@
 # LeetCode_Diary
 ### A journey of a thousand miles begins with a single step.
 #### Step 1 (2.27 - 3.17):
-#### 200 solved by C++ (Easy 87 Medium 100 Hard 13)
+**200 solved by C++ (Easy 87 Medium 100 Hard 13)**
+#### Step 2 (3.18 - ?):
+**? solved by python (Easy ? Medium ? Hard ?)**
 
 | # | Title | c++ | python | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
@@ -21,6 +23,7 @@
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |[c++](./src/0037_Sudoku_Solver/Sudoku_Solver.cpp) |python|Hard|
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) |[c++](./src/0039_Combination_Sum/Combination_Sum.cpp) |python|Medium|
 |0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |[c++](./src/0040_Combination_Sum_II/Combination_Sum_II.cpp) |python|Medium|
+|0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) |c++|[python](./src/0043_Multiply_Strings/Multiply_Strings.py) |Medium|
 |0046|[Permutations](https://leetcode.com/problems/permutations/) |[c++](./src/0046_Permutations/Permutations.cpp) |python|Medium|
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) |[c++](./src/0047_Permutations_II/Permutations_II.cpp) |python|Medium|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/) |[c++](./src/0051_N_Queens/N_Queens.cpp) |python|Hard|
@@ -28,6 +31,8 @@
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) |[c++](./src/0061_Rotate_List/Rotate_List.cpp) |python|Medium|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[c++](./src/0062_Unique_Paths/Unique_Paths.cpp) |python|Medium|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |[c++](./src/0064_Minimum_Path_Sum/Minimum_Path_Sum.cpp) |python|Medium|
+|0066|[Plus One](https://leetcode.com/problems/plus-one/) |c++|[python](./src/0066_Plus_One/Plus_One.py) |Easy|
+|0067|[Add Binary](https://leetcode.com/problems/add-binary/) |c++|[python](./src/0067_Add_Binary/Add_Binary.py) |Easy|
 |0069|[Sqrt(x)](https://leetcode.com/problems/sqrtx/) |[c++](./src/0069_Sqrt_x/Sqrt_x.cpp) |python|Easy|
 |0070|[Climbing Stairs](https://leetcode.com/problems/climbing-stairs/) |[c++](./src/0070_Climbing_Stairs/Climbing_Stairs.cpp) |python|Easy|
 |0072|[Edit Distance](https://leetcode.com/problems/edit-distance/) |[c++](./src/0072_Edit_Distance/Edit_Distance.cpp) |python|Hard|
@@ -75,6 +80,8 @@
 |0160|[Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/) |[c++](./src/0160_Intersectio_of_Two_Linked_Lists/Intersectio_of_Two_Linked_Lists.cpp) |python|Easy|
 |0167|[Two Sum II - Input array is sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) |[c++](./src/0167_Two_Sum_II_Input_array_is_sorted/Two_Sum_II_Input_array_is_sorted.cpp) |python|Easy|
 |0168|[Excel Sheet Column Title](https://leetcode.com/problems/excel-sheet-column-title/) |[c++](./src/0168_Excel_Sheet_Column_Title/Excel_Sheet_Column_Title.cpp) |python|Easy|
+|0169|[Majority Element](https://leetcode.com/problems/majority-element/) |c++|[python](./src/0169_Majority_Element/Majority_Element.py) |Easy|
+|0172|[Factorial Trailing Zeroes](https://leetcode.com/problems/factorial-trailing-zeroes/) |c++|[python](./src/0172_Factorial_Trailing_Zeroes/Factorial_Trailing_Zeroes.py) |Easy|
 |0188|[Best Time to Buy and Sell Stock IV](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv/) |[c++](./src/0188_Best_Time_to_Buy_and_Sell_Stock_IV/Best_Time_to_Buy_and_Sell_Stock_IV.cpp) |python|Hard|
 |0190|[Reverse Bits](https://leetcode.com/problems/reverse-bits/) |[c++](./src/0190_Reverse_Bits/Reverse_Bits.cpp) |python|Easy|
 |0191|[Number of 1 Bits](https://leetcode.com/problems/number-of-1-bits/) |[c++](./src/0191_Number_of_1_Bits/Number_of_1_Bits.cpp) |python|Easy|
@@ -131,12 +138,14 @@
 |0377|[Combination Sum IV](https://leetcode.com/problems/combination-sum-iv/) |[c++](./src/0377_Combination_Sum_IV/Combination_Sum_IV.cpp) |python|Medium|
 |0378|[Kth Smallest Element in a Sorted Matrix](https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/) |[c++](./src/0378_Kth_Smallest_Element_in_a_Sorted_Matrix/Kth_Smallest_Element_in_a_Sorted_Matrix.cpp) |python|Medium|
 |0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[c++](./src/0392_Is_Subsequence/Is_Subsequence.cpp) |python|Medium|
+|0396|[Rotate Function](https://leetcode.com/problems/rotate-function/) |c++|[python](./src/0396_Rotate_Function/Rotate_Function.py) |Medium|
 |0401|[Binary Watch](https://leetcode.com/problems/binary-watch/) |[c++](./src/0401_Binary_Watch/Binary_Watch.cpp) |python|Easy|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |[c++](./src/0404_Sum_of_Left_Leaves/Sum_of_Left_Leaves.cpp) |python|Easy|
 |0405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[c++](./src/0405_Convert_a_Number_to_Hexadecimal/Convert_a_Number_to_Hexadecimal.cpp) |python|Easy|
 |0406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) |[c++](./src/0406_Queue_Reconstruction_by_Height/Queue_Reconstruction_by_Height.cpp) |python|Medium|
 |0409|[Longest Palindrome](https://leetcode.com/problems/longest-palindrome/) |[c++](./src/0409_Longest_Palindrome/Longest_Palindrome.cpp) |python|Easy|
 |0413|[Arithmetic Slices](https://leetcode.com/problems/arithmetic-slices/) |[c++](./src/0413_Arithmetic_Slices/Arithmetic_Slices.cpp) |python|Medium|
+|0415|[Add Strings](https://leetcode.com/problems/add-strings/) |c++|[python](./src/0415_Add_Strings/Add_Strings.py) |Easy|
 |0416|[Partition Equal Subset Sum](https://leetcode.com/problems/partition-equal-subset-sum/) |[c++](./src/0416_Partition_Equal_Subset_Sum/Partition_Equal_Subset_Sum.cpp) |python|Medium|
 |0417|[Pacific Atlantic Water Flow](https://leetcode.com/problems/pacific-atlantic-water-flow/) |[c++](./src/0417_Pacific_Atlantic_Water_Flow/Pacific_Atlantic_Water_Flow.cpp) |python|Medium|
 |0435|[Non-overlapping Intervals](https://leetcode.com/problems/non-overlapping-intervals/) |[c++](./src/0435_Non-overlapping_Intervals/Non-overlapping_Intervals.cpp) |python|Medium|
@@ -146,8 +155,10 @@
 |0448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |[c++](./src/0448_Find_All_Numbers_Disappeared_in_an_Array/Find_All_Numbers_Disappeared_in_an_Array.cpp) |python|Easy|
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) |[c++](./src/0451_Sort_Characters_By_Frequency/Sort_Characters_By_Frequency.cpp) |python|Medium|
 |0452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[c++](./src/0452_Minimum_Number_of_Arrows_to_Burst_Balloons/Minimum_Number_of_Arrows_to_Burst_Balloons.cpp) |python|Medium|
+|0453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) |c++|[python](./src/0453_Minimum_Moves_to_Equal_Array_Elements/Minimum_Moves_to_Equal_Array_Elements.py) |Easy|
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) |[c++](./src/0455_Assign_Cookies/Assign_Cookies.cpp) |python|Easy|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) |[c++](./src/0461_Hamming_Distance/Hamming_Distance.cpp) |python|Easy|
+|0462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |c++|[python](./src/0462_Minimum_Moves_to_Equal_Array_Elements_II/Minimum_Moves_to_Equal_Array_Elements_II.py) |Medium|
 |0474|[Ones and Zeroes](https://leetcode.com/problems/ones-and-zeroes/) |[c++](./src/0474_Ones_and_Zeroes/Ones_and_Zeroes.cpp) |python|Medium|
 |0476|[Number Complement](https://leetcode.com/problems/number-complement/) |[c++](./src/0476_Number_Complement/Number_Complement.cpp) |python|Easy|
 |0485|[Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) |[c++](./src/0485_Max_Consecutive_Ones/Max_Consecutive_Ones.cpp) |python|Easy|
@@ -203,5 +214,6 @@
 |0775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) |[c++](./src/0775_Global_and_Local_Inversions/Global_and_Local_Inversions.cpp) |python|Medium|
 |0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) |[c++](./src/0845_Longest_Mountain_in_Array/Longest_Mountain_in_Array.cpp) |python|Medium|
 |0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |[c++](./src/0905_Sort_Array_By_Parity/Sort_Array_By_Parity.cpp) |python|Easy|
+|0989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) |c++|[python](./src/0989_Add_to_Array_Form_of_Integer/Add_to_Array_Form_of_Integer.py) |Easy|
 |0990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) |[c++](./src/0990_Satisfiability_of_Equality_Equations/Satisfiability_of_Equality_Equations.cpp) |python|Medium|
 |0995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) |[c++](./src/0995_Minimum_Number_of_K_Consecutive_Bit_Flips/Minimum_Number_of_K_Consecutive_Bit_Flips.cpp) |python|Hard|
