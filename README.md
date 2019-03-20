@@ -11,13 +11,19 @@
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |[c++](./src/0002_Add_Two_Numbers/Add_Two_Numbers.cpp) |python|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[c++](./src/0003_Longest_Substring_Without_Repeating_Characters/Longest_Substring_Without_Repeating_Characters.cpp) |python|Medium|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[c++](./src/0009_Palindrome_Number/Palindrome_Number.cpp) |python|Easy|
+|0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |c++|[python](./src/0011_Container_With_Most_Water/Container_With_Most_Water.py) |Medium|
+|0015|[3Sum](https://leetcode.com/problems/3sum/) |c++|[python](./src/0015_3Sum/3Sum.py) |Medium|
+|0016|[3Sum Closest](https://leetcode.com/problems/3sum-closest/) |c++|[python](./src/0016_3Sum_Closest/3Sum_Closest.py) |Medium|
 |0017|[Letter Combinations of a Phone Number](https://leetcode.com/problems/letter-combinations-of-a-phone-number/) |[c++](./src/0017_Letter_Combinations_of_a_Phone_Number/Letter_Combinations_of_a_Phone_Number.cpp) |python|Medium|
+|0018|[4Sum](https://leetcode.com/problems/4sum/) |c++|[python](./src/0018_4Sum/4Sum.py) |Medium|
 |0019|[Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) |[c++](./src/0019_Remove_Nth_Node_From_End_of_List/Remove_Nth_Node_From_End_of_List.cpp) |python|Medium|
 |0020|[Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) |[c++](./src/0020_Valid_Parentheses/Valid_Parentheses.cpp) |python|Easy|
 |0021|[Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) |[c++](./src/0021_Merge_Two_Sorted_Lists/Merge_Two_Sorted_Lists.cpp) |python|Easy|
 |0024|[Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) |[c++](./src/0024_Swap_Nodes_in_Pairs/Swap_Nodes_in_Pairs.cpp) |python|Medium|
 |0025|[Reverse Nodes in k-Group](https://leetcode.com/problems/reverse-nodes-in-k-group/) |[c++](./src/0025_Reverse_Nodes_in_k-Group/Reverse_Nodes_in_k-Group.cpp) |python|Hard|
 |0026|[Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) |[c++](./src/0026_Remove_Duplicates_from_Sorted_Array/Remove_Duplicates_from_Sorted_Array.cpp) |python|Easy|
+|0027|[Remove Element](https://leetcode.com/problems/remove-element/) |c++|[python](./src/0027_Remove_Element/Remove_Element.py) |Easy|
+|0031|[Next Permutation](https://leetcode.com/problems/next-permutation/) |c++|[python](./src/0031_Next_Permutation/Next_Permutation.py) |Medium|
 |0034|[Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/) |[c++](./src/0034_Find_First_and_Last_Position_of_Element_in_Sorted_Array/Find_First_and_Last_Position_of_Element_in_Sorted_Array.cpp) |python|Medium|
 |0036|[Valid Sudoku](https://leetcode.com/problems/valid-sudoku/) |[c++](./src/0036_Valid_Sudoku/Valid_Sudoku.cpp) |python|Medium|
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |[c++](./src/0037_Sudoku_Solver/Sudoku_Solver.cpp) |python|Hard|
@@ -26,8 +32,10 @@
 |0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) |c++|[python](./src/0043_Multiply_Strings/Multiply_Strings.py) |Medium|
 |0046|[Permutations](https://leetcode.com/problems/permutations/) |[c++](./src/0046_Permutations/Permutations.cpp) |python|Medium|
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) |[c++](./src/0047_Permutations_II/Permutations_II.cpp) |python|Medium|
+|0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) |c++|[python](./src/0048_Rotate_Image/Rotate_Image.py) |Medium|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/) |[c++](./src/0051_N_Queens/N_Queens.cpp) |python|Hard|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[c++](./src/0053_Maximum_Subarray/Maximum_Subarray.cpp) |python|Easy|
+|0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) |c++|[python](./src/0060_Permutation_Sequence/Permutation_Sequence.py) |Medium|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) |[c++](./src/0061_Rotate_List/Rotate_List.cpp) |python|Medium|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[c++](./src/0062_Unique_Paths/Unique_Paths.cpp) |python|Medium|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |[c++](./src/0064_Minimum_Path_Sum/Minimum_Path_Sum.cpp) |python|Medium|
@@ -89,6 +97,7 @@
 |0198|[House Robber](https://leetcode.com/problems/house-robber/) |[c++](./src/0198_House_Robber/House_Robber.cpp) |python|Easy|
 |0200|[Number of Islands](https://leetcode.com/problems/number-of-islands/) |[c++](./src/0200_Number_of_Islands/Number_of_Islands.cpp) |python|Medium|
 |0202|[Happy Number](https://leetcode.com/problems/happy-number/) |[c++](./src/0202_Happy_Number/Happy_Number.cpp) |python|Easy|
+|0203|[Remove Linked List Elements](https://leetcode.com/problems/remove-linked-list-elements/) |c++|[python](./src/0203_Remove_Linked_List_Elements/Remove_Linked_List_Elements.py) |Easy|
 |0204|[Count Primes](https://leetcode.com/problems/count-primes/) |[c++](./src/0204_Count_Primes/Count_Primes.cpp) |python|Easy|
 |0205|[Isomorphic Strings](https://leetcode.com/problems/isomorphic-strings/) |[c++](./src/0205_Isomorphic_Strings/Isomorphic_Strings.cpp) |python|Easy|
 |0206|[Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) |[c++](./src/0206_Reverse_Linked_List/Reverse_Linked_List.cpp) |python|Easy|
@@ -161,6 +170,7 @@
 |0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) |[c++](./src/0451_Sort_Characters_By_Frequency/Sort_Characters_By_Frequency.cpp) |python|Medium|
 |0452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[c++](./src/0452_Minimum_Number_of_Arrows_to_Burst_Balloons/Minimum_Number_of_Arrows_to_Burst_Balloons.cpp) |python|Medium|
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) |c++|[python](./src/0453_Minimum_Moves_to_Equal_Array_Elements/Minimum_Moves_to_Equal_Array_Elements.py) |Easy|
+|0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) |c++|[python](./src/0454_4Sum_II/4Sum_II.py) |Medium|
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) |[c++](./src/0455_Assign_Cookies/Assign_Cookies.cpp) |python|Easy|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) |[c++](./src/0461_Hamming_Distance/Hamming_Distance.cpp) |python|Easy|
 |0462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |c++|[python](./src/0462_Minimum_Moves_to_Equal_Array_Elements_II/Minimum_Moves_to_Equal_Array_Elements_II.py) |Medium|
