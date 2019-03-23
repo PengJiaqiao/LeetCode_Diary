@@ -7,7 +7,7 @@
 
 | # | Title | c++ | python | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
-|0001|[Two Sum](https://leetcode.com/problems/two-sum/) |[c++](./src/0001_Two_Sum/Two_Sum.cpp) |python|Easy|
+|0001|[Two Sum](https://leetcode.com/problems/two-sum/) |[c++](./src/0001_Two_Sum/Two_Sum.cpp) |[python](./src/0001_Two_Sum/Two_Sum.py) |Easy|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |[c++](./src/0002_Add_Two_Numbers/Add_Two_Numbers.cpp) |python|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[c++](./src/0003_Longest_Substring_Without_Repeating_Characters/Longest_Substring_Without_Repeating_Characters.cpp) |python|Medium|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[c++](./src/0009_Palindrome_Number/Palindrome_Number.cpp) |python|Easy|
@@ -138,7 +138,7 @@
 |0239|[Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/) |c++|[python](./src/0239_Sliding_Window_Maximum/Sliding_Window_Maximum.py) |Hard|
 |0240|[Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) |[c++](./src/0240_Search_a_2D_Matrix_II/Search_a_2D_Matrix_II.cpp) |python|Medium|
 |0241|[Different Ways to Add Parentheses](https://leetcode.com/problems/different-ways-to-add-parentheses/) |[c++](./src/0241_Different_Ways_to_Add_Parentheses/Different_Ways_to_Add_Parentheses.cpp) |python|Medium|
-|0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[c++](./src/0242_Valid_Anagram/Valid_Anagram.cpp) |python|Easy|
+|0242|[Valid Anagram](https://leetcode.com/problems/valid-anagram/) |[c++](./src/0242_Valid_Anagram/Valid_Anagram.cpp) |[python](./src/0242_Valid_Anagram/Valid_Anagram.py) |Easy|
 |0250|[Count Univalue Subtrees](https://leetcode.com/problems/count-univalue-subtrees/) |c++|[python](./src/0250_Count_Univalue_Subtrees/Count_Univalue_Subtrees.py) |Medium|
 |0257|[Binary Tree Paths](https://leetcode.com/problems/binary-tree-paths/) |[c++](./src/0257_Binary_Tree_Paths/Binary_Tree_Paths.cpp) |python|Easy|
 |0258|[Add Digits](https://leetcode.com/problems/add-digits/) |[c++](./src/0258_Add_Digits/Add_Digits.cpp) |python|Easy|
@@ -163,7 +163,7 @@
 |0342|[Power of Four](https://leetcode.com/problems/power-of-four/) |[c++](./src/0342_Power_of_Four/Power_of_Four.cpp) |python|Easy|
 |0343|[Integer Break](https://leetcode.com/problems/integer-break/) |[c++](./src/0343_Integer_Break/Integer_Break.cpp) |python|Medium|
 |0345|[Reverse Vowels of a String](https://leetcode.com/problems/reverse-vowels-of-a-string/) |[c++](./src/0345_Reverse_Vowels_of_a_String/Reverse_Vowels_of_a_String.cpp) |python|Easy|
-|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |[c++](./src/0347_Top_K_Frequent_Elements/Top_K_Frequent_Elements.cpp) |python|Medium|
+|0347|[Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/) |[c++](./src/0347_Top_K_Frequent_Elements/Top_K_Frequent_Elements.cpp) |[python](./src/0347_Top_K_Frequent_Elements/Top_K_Frequent_Elements.py) |Medium|
 |0357|[Count Numbers with Unique Digits](https://leetcode.com/problems/count-numbers-with-unique-digits/) |[c++](./src/0357_Count_Numbers_with_Unique_Digits/Count_Numbers_with_Unique_Digits.cpp) |python|Medium|
 |0367|[Valid Perfect Square](https://leetcode.com/problems/valid-perfect-square/) |c++|[python](./src/0367_Valid_Perfect_Square/Valid_Perfect_Square.py) |Easy|
 |0369|[Plus One Linked List](https://leetcode.com/problems/plus-one-linked-list/) |c++|[python](./src/0369_Plus_One_Linked_List/Plus_One_Linked_List.py) |Medium|
@@ -188,7 +188,7 @@
 |0442|[Find All Duplicates in an Array](https://leetcode.com/problems/find-all-duplicates-in-an-array/) |[c++](./src/0442_Find_All_Duplicates_in_an_Array/Find_All_Duplicates_in_an_Array.cpp) |python|Medium|
 |0445|[Add Two Numbers II](https://leetcode.com/problems/add-two-numbers-ii/) |[c++](./src/0445_Add_Two_Numbers_II/Add_Two_Numbers_II.cpp) |python|Medium|
 |0448|[Find All Numbers Disappeared in an Array](https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/) |[c++](./src/0448_Find_All_Numbers_Disappeared_in_an_Array/Find_All_Numbers_Disappeared_in_an_Array.cpp) |python|Easy|
-|0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) |[c++](./src/0451_Sort_Characters_By_Frequency/Sort_Characters_By_Frequency.cpp) |python|Medium|
+|0451|[Sort Characters By Frequency](https://leetcode.com/problems/sort-characters-by-frequency/) |[c++](./src/0451_Sort_Characters_By_Frequency/Sort_Characters_By_Frequency.cpp) |[python](./src/0451_Sort_Characters_By_Frequency/Sort_Characters_By_Frequency.py) |Medium|
 |0452|[Minimum Number of Arrows to Burst Balloons](https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons/) |[c++](./src/0452_Minimum_Number_of_Arrows_to_Burst_Balloons/Minimum_Number_of_Arrows_to_Burst_Balloons.cpp) |python|Medium|
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) |c++|[python](./src/0453_Minimum_Moves_to_Equal_Array_Elements/Minimum_Moves_to_Equal_Array_Elements.py) |Easy|
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) |c++|[python](./src/0454_4Sum_II/4Sum_II.py) |Medium|
