@@ -10,6 +10,8 @@
 |0001|[Two Sum](https://leetcode.com/problems/two-sum/) |[c++](./src/0001_Two_Sum/Two_Sum.cpp) |[python](./src/0001_Two_Sum/Two_Sum.py) |Easy|
 |0002|[Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) |[c++](./src/0002_Add_Two_Numbers/Add_Two_Numbers.cpp) |python|Medium|
 |0003|[Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) |[c++](./src/0003_Longest_Substring_Without_Repeating_Characters/Longest_Substring_Without_Repeating_Characters.cpp) |python|Medium|
+|0005|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/) |c++|[python](./src/0005_Longest_Palindromic_Substring/Longest_Palindromic_Substring.py) |Medium|
+|0007|[Reverse Integer](https://leetcode.com/problems/reverse-integer/) |c++|[python](./src/0007_Reverse_Integer/Reverse_Integer.py) |Easy|
 |0009|[Palindrome Number](https://leetcode.com/problems/palindrome-number/) |[c++](./src/0009_Palindrome_Number/Palindrome_Number.cpp) |python|Easy|
 |0011|[Container With Most Water](https://leetcode.com/problems/container-with-most-water/) |c++|[python](./src/0011_Container_With_Most_Water/Container_With_Most_Water.py) |Medium|
 |0015|[3Sum](https://leetcode.com/problems/3sum/) |c++|[python](./src/0015_3Sum/3Sum.py) |Medium|
@@ -35,6 +37,7 @@
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) |[c++](./src/0047_Permutations_II/Permutations_II.cpp) |python|Medium|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) |c++|[python](./src/0048_Rotate_Image/Rotate_Image.py) |Medium|
 |0049|[Group Anagrams](https://leetcode.com/problems/group-anagrams/) |c++|[python](./src/0049_Group_Anagrams/Group_Anagrams.py) |Medium|
+|0050|[Pow(x, n)](https://leetcode.com/problems/powx-n/) |c++|[python](./src/0050_Pow_x_n/Pow_x_n.py) |Medium|
 |0051|[N-Queens](https://leetcode.com/problems/n-queens/) |[c++](./src/0051_N_Queens/N_Queens.cpp) |python|Hard|
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[c++](./src/0053_Maximum_Subarray/Maximum_Subarray.cpp) |python|Easy|
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) |c++|[python](./src/0060_Permutation_Sequence/Permutation_Sequence.py) |Medium|
@@ -269,6 +272,7 @@
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) |c++|[python](./src/0796_Rotate_String/Rotate_String.py) |Easy|
 |0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) |[c++](./src/0845_Longest_Mountain_in_Array/Longest_Mountain_in_Array.cpp) |python|Medium|
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |c++|[python](./src/0872_Leaf_Similar_Trees/Leaf_Similar_Trees.py) |Easy|
+|0875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) |c++|[python](./src/0875_Koko_Eating_Bananas/Koko_Eating_Bananas.py) |Medium|
 |0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) |c++|[python](./src/0897_Increasing_Order_Search_Tree/Increasing_Order_Search_Tree.py) |Easy|
 |0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |[c++](./src/0905_Sort_Array_By_Parity/Sort_Array_By_Parity.cpp) |python|Easy|
 |0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) |c++|[python](./src/0969_Pancake_Sorting/Pancake_Sorting.py) |Medium|
@@ -277,3 +281,9 @@
 |0995|[Minimum Number of K Consecutive Bit Flips](https://leetcode.com/problems/minimum-number-of-k-consecutive-bit-flips/) |[c++](./src/0995_Minimum_Number_of_K_Consecutive_Bit_Flips/Minimum_Number_of_K_Consecutive_Bit_Flips.cpp) |python|Hard|
 |1012|[Complement of Base 10 Integer](https://leetcode.com/problems/complement-of-base-10-integer/) |c++|[python](./src/1012_Complement_of_Base_10_Integer/Complement_of_Base_10_Integer.py) |Easy|
 |1013|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |c++|[python](./src/1013_Pairs_of_Songs_With_Total_Durations_Divisible_by_60/Pairs_of_Songs_With_Total_Durations_Divisible_by_60.py) |Easy|
+|1014|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |c++|[python](./src/1014_Capacity_To_Ship_Packages_Within_D_Days/Capacity_To_Ship_Packages_Within_D_Days.py) |Medium|
+|1015|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/) |c++|[python](./src/1015_Numbers_With_Repeated_Digits/Numbers_With_Repeated_Digits.py) |Hard|
+|1020|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) |c++|[python](./src/1020_Partition_Array_Into_Three_Parts_With_Equal_Sum/Partition_Array_Into_Three_Parts_With_Equal_Sum.py) |Easy|
+|1021|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) |c++|[python](./src/1021_Best_Sightseeing_Pair/Best_Sightseeing_Pair.py) |Medium|
+|1022|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |c++|[python](./src/1022_Smallest_Integer_Divisible_by_K/Smallest_Integer_Divisible_by_K.py) |Medium|
+|1023|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) |c++|[python](./src/1023_Binary_String_With_Substrings_Representing_1_To_N/Binary_String_With_Substrings_Representing_1_To_N.py) |Medium|
