@@ -2,8 +2,12 @@
 ### A journey of a thousand miles begins with a single step.
 #### Step 1 (2.27 - 3.17):
 **200 solved by C++ (Easy 87 Medium 100 Hard 13)**
-#### Step 2 (3.18 - ?):
-**? solved by python (Easy ? Medium ? Hard ?)**
+#### Step 2 (3.18 - 3.27):
+**100 solved by python (Easy 28 Medium 59 Hard 13)**
+#### Step 3 (3.28 - 3.30):
+**Visit Transnistria and have a soviet tour**
+#### Step 4 (3.31 - ∞):
+**Irregularly solve the problems**
 
 | # | Title | c++ | python | Difficulty |
 |---| ----- | -------- | ---------- | ---------- |
