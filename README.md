@@ -307,6 +307,7 @@
 |1013|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |c++|[python](./src/1013_Pairs_of_Songs_With_Total_Durations_Divisible_by_60/Pairs_of_Songs_With_Total_Durations_Divisible_by_60.py) |Easy|
 |1014|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |c++|[python](./src/1014_Capacity_To_Ship_Packages_Within_D_Days/Capacity_To_Ship_Packages_Within_D_Days.py) |Medium|
 |1015|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/) |c++|[python](./src/1015_Numbers_With_Repeated_Digits/Numbers_With_Repeated_Digits.py) |Hard|
+|1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) |c++|[python](./src/1019_Next_Greater_Node_In_Linked_List/Next_Greater_Node_In_Linked_List.py) |Medium|
 |1020|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) |c++|[python](./src/1020_Partition_Array_Into_Three_Parts_With_Equal_Sum/Partition_Array_Into_Three_Parts_With_Equal_Sum.py) |Easy|
 |1021|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) |c++|[python](./src/1021_Best_Sightseeing_Pair/Best_Sightseeing_Pair.py) |Medium|
 |1022|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |c++|[python](./src/1022_Smallest_Integer_Divisible_by_K/Smallest_Integer_Divisible_by_K.py) |Medium|
