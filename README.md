@@ -202,6 +202,7 @@
 |0392|[Is Subsequence](https://leetcode.com/problems/is-subsequence/) |[c++](./src/0392_Is_Subsequence/Is_Subsequence.cpp) |python|Medium|
 |0394|[Decode String](https://leetcode.com/problems/decode-string/) |c++|[python](./src/0394_Decode_String/Decode_String.py) |Medium|
 |0396|[Rotate Function](https://leetcode.com/problems/rotate-function/) |c++|[python](./src/0396_Rotate_Function/Rotate_Function.py) |Medium|
+|0400|[Nth Digit](https://leetcode.com/problems/nth-digit/) |c++|[python](./src/0400_Nth_Digit/Nth_Digit.py) |Easy|
 |0401|[Binary Watch](https://leetcode.com/problems/binary-watch/) |[c++](./src/0401_Binary_Watch/Binary_Watch.cpp) |python|Easy|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |[c++](./src/0404_Sum_of_Left_Leaves/Sum_of_Left_Leaves.cpp) |python|Easy|
 |0405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[c++](./src/0405_Convert_a_Number_to_Hexadecimal/Convert_a_Number_to_Hexadecimal.cpp) |python|Easy|
@@ -223,6 +224,7 @@
 |0453|[Minimum Moves to Equal Array Elements](https://leetcode.com/problems/minimum-moves-to-equal-array-elements/) |c++|[python](./src/0453_Minimum_Moves_to_Equal_Array_Elements/Minimum_Moves_to_Equal_Array_Elements.py) |Easy|
 |0454|[4Sum II](https://leetcode.com/problems/4sum-ii/) |c++|[python](./src/0454_4Sum_II/4Sum_II.py) |Medium|
 |0455|[Assign Cookies](https://leetcode.com/problems/assign-cookies/) |[c++](./src/0455_Assign_Cookies/Assign_Cookies.cpp) |python|Easy|
+|0458|[Poor Pigs](https://leetcode.com/problems/poor-pigs/) |c++|[python](./src/0458_Poor_Pigs/Poor_Pigs.py) |Hard|
 |0461|[Hamming Distance](https://leetcode.com/problems/hamming-distance/) |[c++](./src/0461_Hamming_Distance/Hamming_Distance.cpp) |python|Easy|
 |0462|[Minimum Moves to Equal Array Elements II](https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii/) |c++|[python](./src/0462_Minimum_Moves_to_Equal_Array_Elements_II/Minimum_Moves_to_Equal_Array_Elements_II.py) |Medium|
 |0469|[Convex Polygon](https://leetcode.com/problems/convex-polygon/) |c++|[python](./src/0469_Convex_Polygon/Convex_Polygon.py) |Medium|
@@ -267,6 +269,7 @@
 |0650|[2 Keys Keyboard](https://leetcode.com/problems/2-keys-keyboard/) |[c++](./src/0650_2_Keys_Keyboard/2_Keys_Keyboard.cpp) |python|Medium|
 |0653|[Two Sum IV - Input is a BST](https://leetcode.com/problems/two-sum-iv-input-is-a-bst/) |[c++](./src/0653_Two_Sum_IV-Input_is_a_BST/Two_Sum_IV-Input_is_a_BST.cpp) |python|Easy|
 |0659|[Split Array into Consecutive Subsequences](https://leetcode.com/problems/split-array-into-consecutive-subsequences/) |c++|[python](./src/0659_Split_Array_into_Consecutive_Subsequences/Split_Array_into_Consecutive_Subsequences.py) |Medium|
+|0660|[Remove 9](https://leetcode.com/problems/remove-9/) |c++|[python](./src/0660_Remove_9/Remove_9.py) |Hard|
 |0665|[Non-decreasing Array](https://leetcode.com/problems/non-decreasing-array/) |[c++](./src/0665_Non_decreasing_Array/Non_decreasing_Array.cpp) |python|Easy|
 |0667|[Beautiful Arrangement II](https://leetcode.com/problems/beautiful-arrangement-ii/) |[c++](./src/0667_Beautiful_Arrangement_II/Beautiful_Arrangement_II.cpp) |python|Medium|
 |0669|[Trim a Binary Search Tree](https://leetcode.com/problems/trim-a-binary-search-tree/) |[c++](./src/0669_Trim_a_Binary_Search_Tree/Trim_a_Binary_Search_Tree.cpp) |python|Easy|
@@ -307,6 +310,7 @@
 |1013|[Pairs of Songs With Total Durations Divisible by 60](https://leetcode.com/problems/pairs-of-songs-with-total-durations-divisible-by-60/) |c++|[python](./src/1013_Pairs_of_Songs_With_Total_Durations_Divisible_by_60/Pairs_of_Songs_With_Total_Durations_Divisible_by_60.py) |Easy|
 |1014|[Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) |c++|[python](./src/1014_Capacity_To_Ship_Packages_Within_D_Days/Capacity_To_Ship_Packages_Within_D_Days.py) |Medium|
 |1015|[Numbers With Repeated Digits](https://leetcode.com/problems/numbers-with-repeated-digits/) |c++|[python](./src/1015_Numbers_With_Repeated_Digits/Numbers_With_Repeated_Digits.py) |Hard|
+|1017|[Convert to Base -2](https://leetcode.com/problems/convert-to-base-2/) |c++|[python](./src/1017_Convert_to_Base_-2/Convert_to_Base_-2.py) |Medium|
 |1019|[Next Greater Node In Linked List](https://leetcode.com/problems/next-greater-node-in-linked-list/) |c++|[python](./src/1019_Next_Greater_Node_In_Linked_List/Next_Greater_Node_In_Linked_List.py) |Medium|
 |1020|[Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/) |c++|[python](./src/1020_Partition_Array_Into_Three_Parts_With_Equal_Sum/Partition_Array_Into_Three_Parts_With_Equal_Sum.py) |Easy|
 |1021|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) |c++|[python](./src/1021_Best_Sightseeing_Pair/Best_Sightseeing_Pair.py) |Medium|
