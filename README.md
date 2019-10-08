@@ -41,8 +41,10 @@
 |0037|[Sudoku Solver](https://leetcode.com/problems/sudoku-solver/) |[c++](./src/0037_Sudoku_Solver/Sudoku_Solver.cpp) |python|Hard|
 |0039|[Combination Sum](https://leetcode.com/problems/combination-sum/) |[c++](./src/0039_Combination_Sum/Combination_Sum.cpp) |python|Medium|
 |0040|[Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) |[c++](./src/0040_Combination_Sum_II/Combination_Sum_II.cpp) |python|Medium|
+|0041|[First Missing Positive](https://leetcode.com/problems/first-missing-positive/) |[c++](./src/0041_First_Missing_Positive/First_Missing_Positive.cpp) |python|Hard|
 |0042|[Trapping Rain Water](https://leetcode.com/problems/trapping-rain-water/) |c++|[python](./src/0042_Trapping_Rain_Water/Trapping_Rain_Water.py) |Hard|
 |0043|[Multiply Strings](https://leetcode.com/problems/multiply-strings/) |c++|[python](./src/0043_Multiply_Strings/Multiply_Strings.py) |Medium|
+|0044|[Wildcard Matching](https://leetcode.com/problems/wildcard-matching/) |[c++](./src/0044_Wildcard_Matching/Wildcard_Matching.cpp)|python|Hard|
 |0046|[Permutations](https://leetcode.com/problems/permutations/) |[c++](./src/0046_Permutations/Permutations.cpp) |python|Medium|
 |0047|[Permutations II](https://leetcode.com/problems/permutations-ii/) |[c++](./src/0047_Permutations_II/Permutations_II.cpp) |python|Medium|
 |0048|[Rotate Image](https://leetcode.com/problems/rotate-image/) |c++|[python](./src/0048_Rotate_Image/Rotate_Image.py) |Medium|
@@ -52,9 +54,11 @@
 |0053|[Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) |[c++](./src/0053_Maximum_Subarray/Maximum_Subarray.cpp) |python|Easy|
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) |c++|[python](./src/0055_Jump_Game/Jump_Game.py) |Medium|
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) |c++|[python](./src/0056_Merge_Intervals/Merge_Intervals.py) |Medium|
+|0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[c++](./src/0058_Length_of_Last_Word/Length_of_Last_Word.cpp)|python|Easy|
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) |c++|[python](./src/0060_Permutation_Sequence/Permutation_Sequence.py) |Medium|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) |[c++](./src/0061_Rotate_List/Rotate_List.cpp) |python|Medium|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[c++](./src/0062_Unique_Paths/Unique_Paths.cpp) |python|Medium|
+|0063|[Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) |[c++](./src/0063_Unique_Paths_II/Unique_Paths_II.cpp)|python|Medium|
 |0064|[Minimum Path Sum](https://leetcode.com/problems/minimum-path-sum/) |[c++](./src/0064_Minimum_Path_Sum/Minimum_Path_Sum.cpp) |python|Medium|
 |0066|[Plus One](https://leetcode.com/problems/plus-one/) |c++|[python](./src/0066_Plus_One/Plus_One.py) |Easy|
 |0067|[Add Binary](https://leetcode.com/problems/add-binary/) |c++|[python](./src/0067_Add_Binary/Add_Binary.py) |Easy|
@@ -81,28 +85,36 @@
 |0092|[Reverse Linked List II](https://leetcode.com/problems/reverse-linked-list-ii/) |[c++](./src/0092_Reverse_Linked_List_II/Reverse_Linked_List_II.cpp) |python|Medium|
 |0093|[Restore IP Addresses](https://leetcode.com/problems/restore-ip-addresses/) |[c++](./src/0093_Restore_IP_Addresses/Restore_IP_Addresses.cpp) |python|Medium|
 |0094|[Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/) |[c++](./src/0094_Binary_Tree_Inorder_Traversal/Binary_Tree_Inorder_Traversal.cpp) |python|Medium|
+|0095|[Unique Binary Search Trees II](https://leetcode.com/problems/unique-binary-search-trees-ii/) |[c++](./src/0095_Unique_Binary_Search_Trees_II/Unique_Binary_Search_Trees_II.cpp)|python|Medium|
 |0096|[Unique Binary Search Trees](https://leetcode.com/problems/unique-binary-search-trees/) |c++|[python](./src/0096_Unique_Binary_Search_Trees/Unique_Binary_Search_Trees.py) |Medium|
+|0097|[Interleaving String](https://leetcode.com/problems/interleaving-string/) |[c++](./src/0097_Interleaving_String/Interleaving_String.cpp)|python|Hard|
 |0098|[Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) |c++|[python](./src/0098_Validate_Binary_Search_Tree/Validate_Binary_Search_Tree.py) |Medium|
+|0099|[Recover Binary Search Tree](https://leetcode.com/problems/recover-binary-search-tree/) |[c++](./src/0099_Recover_Binary_Search_Tree/Recover_Binary_Search_Tree.cpp)|python|Hard|
+|0100|[Same Tree](https://leetcode.com/problems/same-tree/) |[c++](./src/0100_Same_Tree/Same_Tree.cpp)|python|Easy|
 |0101|[Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) |[c++](./src/0101_Symmetric_Tree/Symmetric_Tree.cpp) |python|Easy|
 |0102|[Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) |c++|[python](./src/0102_Binary_Tree_Level_Order_Traversal/Binary_Tree_Level_Order_Traversal.py) |Medium|
 |0103|[Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) |c++|[python](./src/0103_Binary_Tree_Zigzag_Level_Order_Traversal/Binary_Tree_Zigzag_Level_Order_Traversal.py) |Medium|
 |0104|[Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) |[c++](./src/0104_Maximum_Depth_of_Binary_Tree/Maximum_Depth_of_Binary_Tree.cpp) |python|Easy|
 |0105|[Construct Binary Tree from Preorder and Inorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal/) |c++|[python](./src/0105_Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal/Construct_Binary_Tree_from_Preorder_and_Inorder_Traversal.py) |Medium|
+|0106|[Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal/) |[c++](./src/0106_Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal/Construct_Binary_Tree_from_Inorder_and_Postorder_Traversal.cpp)|python|Medium|
 |0107|[Binary Tree Level Order Traversal II](https://leetcode.com/problems/binary-tree-level-order-traversal-ii/) |c++|[python](./src/0107_Binary_Tree_Level_Order_Traversal_II/Binary_Tree_Level_Order_Traversal_II.py) |Easy|
 |0108|[Convert Sorted Array to Binary Search Tree](https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree/) |[c++](./src/0108_Convert_Sorted_Array_to_Binary_Search_Tree/Convert_Sorted_Array_to_Binary_Search_Tree.cpp) |python|Easy|
 |0109|[Convert Sorted List to Binary Search Tree](https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree/) |[c++](./src/0109_Convert_Sorted_List_to_Binary_Search_Tree/Convert_Sorted_List_to_Binary_Search_Tree.cpp) |python|Medium|
 |0110|[Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) |[c++](./src/0110_Balanced_Binary_Tree/Balanced_Binary_Tree.cpp) |python|Easy|
 |0111|[Minimum Depth of Binary Tree](https://leetcode.com/problems/minimum-depth-of-binary-tree/) |[c++](./src/0111_Minimum_Depth_of_Binary_Tree/Minimum_Depth_of_Binary_Tree.cpp) |python|Easy|
 |0112|[Path Sum](https://leetcode.com/problems/path-sum/) |[c++](./src/0112_Path_Sum/Path_Sum.cpp) |python|Easy|
+|0113|[Path Sum II](https://leetcode.com/problems/path-sum-ii/) |[c++](./src/0113_Path_Sum_II/Path_Sum_II.cpp)|python|Medium|
 |0114|[Flatten Binary Tree to Linked List](https://leetcode.com/problems/flatten-binary-tree-to-linked-list/) |c++|[python](./src/0114_Flatten_Binary_Tree_to_Linked_List/Flatten_Binary_Tree_to_Linked_List.py) |Medium|
 |0116|[Populating Next Right Pointers in Each Node](https://leetcode.com/problems/populating-next-right-pointers-in-each-node/) |c++|[python](./src/0116_Populating_Next_Right_Pointers_in_Each_Node/Populating_Next_Right_Pointers_in_Each_Node.py) |Medium|
 |0117|[Populating Next Right Pointers in Each Node II](https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii/) |c++|[python](./src/0117_Populating_Next_Right_Pointers_in_Each_Node_II/Populating_Next_Right_Pointers_in_Each_Node_II.py) |Medium|
+|0120|[Triangle](https://leetcode.com/problems/triangle/) |[c++](./src/0120_Triangle/Triangle.cpp)|python|Medium|
 |0121|[Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) |[c++](./src/0121_Best_Time_to_Buy_and_Sell_Stock/Best_Time_to_Buy_and_Sell_Stock.cpp) |python|Easy|
 |0122|[Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) |[c++](./src/0122_Best_Time_to_Buy_and_Sell_Stock_II/Best_Time_to_Buy_and_Sell_Stock_II.cpp) |python|Easy|
 |0123|[Best Time to Buy and Sell Stock III](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii/) |[c++](./src/0123_Best_Time_to_Buy_and_Sell_Stock_III/Best_Time_to_Buy_and_Sell_Stock_III.cpp) |python|Hard|
 |0124|[Binary Tree Maximum Path Sum](https://leetcode.com/problems/binary-tree-maximum-path-sum/) |c++|[python](./src/0124_Binary_Tree_Maximum_Path_Sum/Binary_Tree_Maximum_Path_Sum.py) |Hard|
 |0127|[Word Ladder](https://leetcode.com/problems/word-ladder/) |[c++](./src/0127_Word_Ladder/Word_Ladder.cpp) |python|Medium|
 |0128|[Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) |[c++](./src/0128_Longest_Consecutive_Sequence/Longest_Consecutive_Sequence.cpp) |python|Hard|
+|0129|[Sum Root to Leaf Numbers](https://leetcode.com/problems/sum-root-to-leaf-numbers/) |[c++](./src/0129_Sum_Root_to_Leaf_Numbers/Sum_Root_to_Leaf_Numbers.cpp)|python|Medium|
 |0130|[Surrounded Regions](https://leetcode.com/problems/surrounded-regions/) |[c++](./src/0130_Surrounded_Regions/Surrounded_Regions.cpp) |python|Medium|
 |0131|[Palindrome Partitioning](https://leetcode.com/problems/palindrome-partitioning/) |[c++](./src/0131_Palindrome_Partitioning/Palindrome_Partitioning.cpp) |python|Medium|
 |0135|[Candy](https://leetcode.com/problems/candy/) |[c++](./src/0135_Candy/Candy.cpp) |python|Hard|
@@ -205,6 +217,7 @@
 |0396|[Rotate Function](https://leetcode.com/problems/rotate-function/) |c++|[python](./src/0396_Rotate_Function/Rotate_Function.py) |Medium|
 |0400|[Nth Digit](https://leetcode.com/problems/nth-digit/) |c++|[python](./src/0400_Nth_Digit/Nth_Digit.py) |Easy|
 |0401|[Binary Watch](https://leetcode.com/problems/binary-watch/) |[c++](./src/0401_Binary_Watch/Binary_Watch.cpp) |python|Easy|
+|0402|[Remove K Digits](https://leetcode.com/problems/remove-k-digits/) |[c++](./src/0402_Remove_K_Digits/Remove_K_Digits.cpp)|python|Medium|
 |0404|[Sum of Left Leaves](https://leetcode.com/problems/sum-of-left-leaves/) |[c++](./src/0404_Sum_of_Left_Leaves/Sum_of_Left_Leaves.cpp) |python|Easy|
 |0405|[Convert a Number to Hexadecimal](https://leetcode.com/problems/convert-a-number-to-hexadecimal/) |[c++](./src/0405_Convert_a_Number_to_Hexadecimal/Convert_a_Number_to_Hexadecimal.cpp) |python|Easy|
 |0406|[Queue Reconstruction by Height](https://leetcode.com/problems/queue-reconstruction-by-height/) |[c++](./src/0406_Queue_Reconstruction_by_Height/Queue_Reconstruction_by_Height.cpp) |python|Medium|
@@ -288,22 +301,27 @@
 |0714|[Best Time to Buy and Sell Stock with Transaction Fee](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-transaction-fee/) |[c++](./src/0714_Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee/Best_Time_to_Buy_and_Sell_Stock_with_Transaction_Fee.cpp) |python|Medium|
 |0717|[1-bit and 2-bit Characters](https://leetcode.com/problems/1-bit-and-2-bit-characters/) |[c++](./src/0717_1_bit_and_2_bit_Characters/1_bit_and_2_bit_Characters.cpp) |python|Easy|
 |0718|[Maximum Length of Repeated Subarray](https://leetcode.com/problems/maximum-length-of-repeated-subarray/) |c++|[python](./src/0718_Maximum_Length_of_Repeated_Subarray/Maximum_Length_of_Repeated_Subarray.py) |Medium|
+|0724|[Find Pivot Index](https://leetcode.com/problems/find-pivot-index/) |[c++](./src/0724_Find_Pivot_Index/Find_Pivot_Index.cpp)|python|Easy|
 |0725|[Split Linked List in Parts](https://leetcode.com/problems/split-linked-list-in-parts/) |[c++](./src/0725_Split_Linked_List_in_Parts/Split_Linked_List_in_Parts.cpp) |python|Medium|
 |0739|[Daily Temperatures](https://leetcode.com/problems/daily-temperatures/) |[c++](./src/0739_Daily_Temperatures/Daily_Temperatures.cpp) |python|Medium|
 |0744|[Find Smallest Letter Greater Than Target](https://leetcode.com/problems/find-smallest-letter-greater-than-target/) |[c++](./src/0744_Find_Smallest_Letter_Greater_Than_Target/Find_Smallest_Letter_Greater_Than_Target.cpp) |python|Easy|
 |0763|[Partition Labels](https://leetcode.com/problems/partition-labels/) |[c++](./src/0763_Partition_Labels/Partition_Labels.cpp) |python|Medium|
 |0764|[Largest Plus Sign](https://leetcode.com/problems/largest-plus-sign/) |[c++](./src/0764_Largest_Plus_Sign/Largest_Plus_Sign.cpp) |python|Medium|
 |0766|[Toeplitz Matrix](https://leetcode.com/problems/toeplitz-matrix/) |[c++](./src/0766_Toeplitz_Matrix/Toeplitz_Matrix.cpp) |python|Easy|
+|0767|[Reorganize String](https://leetcode.com/problems/reorganize-string/) |[c++](./src/0767_Reorganize_String/Reorganize_String.cpp)|python|Medium|
 |0768|[Max Chunks To Make Sorted II](https://leetcode.com/problems/max-chunks-to-make-sorted-ii/) |[c++](./src/0768_Max_Chunks_To_Make_Sorted_II/Max_Chunks_To_Make_Sorted_II.cpp) |python|Hard|
 |0769|[Max Chunks To Make Sorted](https://leetcode.com/problems/max-chunks-to-make-sorted/) |[c++](./src/0769_Max_Chunks_To_Make_Sorted/Max_Chunks_To_Make_Sorted.cpp) |python|Medium|
 |0771|[Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/) |c++|[python](./src/0771_Jewels_and_Stones/Jewels_and_Stones.py) |Easy|
 |0775|[Global and Local Inversions](https://leetcode.com/problems/global-and-local-inversions/) |[c++](./src/0775_Global_and_Local_Inversions/Global_and_Local_Inversions.cpp) |python|Medium|
+|0785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |[c++](./src/0785_Is_Graph_Bipartite?/Is_Graph_Bipartite?.cpp)|python|Medium|
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) |c++|[python](./src/0796_Rotate_String/Rotate_String.py) |Easy|
+|0825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) |[c++](./src/0825_Friends_Of_Appropriate_Ages/Friends_Of_Appropriate_Ages.cpp)|python|Medium|
 |0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) |[c++](./src/0845_Longest_Mountain_in_Array/Longest_Mountain_in_Array.cpp) |python|Medium|
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |c++|[python](./src/0872_Leaf_Similar_Trees/Leaf_Similar_Trees.py) |Easy|
 |0875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) |c++|[python](./src/0875_Koko_Eating_Bananas/Koko_Eating_Bananas.py) |Medium|
 |0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) |c++|[python](./src/0897_Increasing_Order_Search_Tree/Increasing_Order_Search_Tree.py) |Easy|
 |0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |[c++](./src/0905_Sort_Array_By_Parity/Sort_Array_By_Parity.cpp) |python|Easy|
+|0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) |[c++](./src/0912_Sort_an_Array/Sort_an_Array.cpp)|python|Medium|
 |0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) |c++|[python](./src/0969_Pancake_Sorting/Pancake_Sorting.py) |Medium|
 |0989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) |c++|[python](./src/0989_Add_to_Array_Form_of_Integer/Add_to_Array_Form_of_Integer.py) |Easy|
 |0990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) |[c++](./src/0990_Satisfiability_of_Equality_Equations/Satisfiability_of_Equality_Equations.cpp) |python|Medium|
@@ -318,3 +336,4 @@
 |1021|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) |c++|[python](./src/1021_Best_Sightseeing_Pair/Best_Sightseeing_Pair.py) |Medium|
 |1022|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |c++|[python](./src/1022_Smallest_Integer_Divisible_by_K/Smallest_Integer_Divisible_by_K.py) |Medium|
 |1023|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) |c++|[python](./src/1023_Binary_String_With_Substrings_Representing_1_To_N/Binary_String_With_Substrings_Representing_1_To_N.py) |Medium|
+|1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |[c++](./src/1028_Recover_a_Tree_From_Preorder_Traversal/Recover_a_Tree_From_Preorder_Traversal.cpp)|python|Hard|
