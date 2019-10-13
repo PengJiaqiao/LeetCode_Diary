@@ -55,6 +55,7 @@
 |0055|[Jump Game](https://leetcode.com/problems/jump-game/) |c++|[python](./src/0055_Jump_Game/Jump_Game.py) |Medium|
 |0056|[Merge Intervals](https://leetcode.com/problems/merge-intervals/) |c++|[python](./src/0056_Merge_Intervals/Merge_Intervals.py) |Medium|
 |0058|[Length of Last Word](https://leetcode.com/problems/length-of-last-word/) |[c++](./src/0058_Length_of_Last_Word/Length_of_Last_Word.cpp)|python|Easy|
+|0059|[Spiral Matrix II](https://leetcode.com/problems/spiral-matrix-ii/) |[c++](./src/0059_Spiral_Matrix_II/Spiral_Matrix_II.cpp)|python|Medium|
 |0060|[Permutation Sequence](https://leetcode.com/problems/permutation-sequence/) |c++|[python](./src/0060_Permutation_Sequence/Permutation_Sequence.py) |Medium|
 |0061|[Rotate List](https://leetcode.com/problems/rotate-list/) |[c++](./src/0061_Rotate_List/Rotate_List.cpp) |python|Medium|
 |0062|[Unique Paths](https://leetcode.com/problems/unique-paths/) |[c++](./src/0062_Unique_Paths/Unique_Paths.cpp) |python|Medium|
@@ -272,6 +273,7 @@
 |0581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |c++|[python](./src/0581_Shortest_Unsorted_Continuous_Subarray/Shortest_Unsorted_Continuous_Subarray.py) |Easy|
 |0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) |[c++](./src/0583_Delete_Operation_for_Two_Strings/Delete_Operation_for_Two_Strings.cpp) |python|Medium|
 |0594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) |[c++](./src/0594_Longest_Harmonious_Subsequence/Longest_Harmonious_Subsequence.cpp) |python|Easy|
+|0600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) |[c++](./src/0600_Non-negative_Integers_without_Consecutive_Ones/Non-negative_Integers_without_Consecutive_Ones.cpp)|python|Hard|
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |[c++](./src/0605_Can_Place_Flowers/Can_Place_Flowers.cpp) |python|Easy|
 |0617|[Merge Two Binary Trees](https://leetcode.com/problems/merge-two-binary-trees/) |[c++](./src/0617_Merge_Two_Binary_Trees/Merge_Two_Binary_Trees.cpp) |python|Easy|
 |0621|[Task Scheduler](https://leetcode.com/problems/task-scheduler/) |c++|[python](./src/0621_Task_Scheduler/Task_Scheduler.py) |Medium|
@@ -317,11 +319,15 @@
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) |c++|[python](./src/0796_Rotate_String/Rotate_String.py) |Easy|
 |0825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) |[c++](./src/0825_Friends_Of_Appropriate_Ages/Friends_Of_Appropriate_Ages.cpp)|python|Medium|
 |0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) |[c++](./src/0845_Longest_Mountain_in_Array/Longest_Mountain_in_Array.cpp) |python|Medium|
+|0870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) |[c++](./src/0870_Advantage_Shuffle/Advantage_Shuffle.cpp)|python|Medium|
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |c++|[python](./src/0872_Leaf_Similar_Trees/Leaf_Similar_Trees.py) |Easy|
 |0875|[Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) |c++|[python](./src/0875_Koko_Eating_Bananas/Koko_Eating_Bananas.py) |Medium|
 |0897|[Increasing Order Search Tree](https://leetcode.com/problems/increasing-order-search-tree/) |c++|[python](./src/0897_Increasing_Order_Search_Tree/Increasing_Order_Search_Tree.py) |Easy|
 |0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |[c++](./src/0905_Sort_Array_By_Parity/Sort_Array_By_Parity.cpp) |python|Easy|
 |0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) |[c++](./src/0912_Sort_an_Array/Sort_an_Array.cpp)|python|Medium|
+|0934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) |[c++](./src/0934_Shortest_Bridge/Shortest_Bridge.cpp)|python|Medium|
+|0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) |[c++](./src/0954_Array_of_Doubled_Pairs/Array_of_Doubled_Pairs.cpp)|python|Medium|
+|0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) |[c++](./src/0954_Array_of_Doubled_Pairs/Array_of_Doubled_Pairs.cpp)|python|Medium|
 |0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) |c++|[python](./src/0969_Pancake_Sorting/Pancake_Sorting.py) |Medium|
 |0989|[Add to Array-Form of Integer](https://leetcode.com/problems/add-to-array-form-of-integer/) |c++|[python](./src/0989_Add_to_Array_Form_of_Integer/Add_to_Array_Form_of_Integer.py) |Easy|
 |0990|[Satisfiability of Equality Equations](https://leetcode.com/problems/satisfiability-of-equality-equations/) |[c++](./src/0990_Satisfiability_of_Equality_Equations/Satisfiability_of_Equality_Equations.cpp) |python|Medium|
@@ -336,4 +342,6 @@
 |1021|[Best Sightseeing Pair](https://leetcode.com/problems/best-sightseeing-pair/) |c++|[python](./src/1021_Best_Sightseeing_Pair/Best_Sightseeing_Pair.py) |Medium|
 |1022|[Smallest Integer Divisible by K](https://leetcode.com/problems/smallest-integer-divisible-by-k/) |c++|[python](./src/1022_Smallest_Integer_Divisible_by_K/Smallest_Integer_Divisible_by_K.py) |Medium|
 |1023|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) |c++|[python](./src/1023_Binary_String_With_Substrings_Representing_1_To_N/Binary_String_With_Substrings_Representing_1_To_N.py) |Medium|
+|1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) |[c++](./src/1027_Longest_Arithmetic_Sequence/Longest_Arithmetic_Sequence.cpp)|python|Medium|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |[c++](./src/1028_Recover_a_Tree_From_Preorder_Traversal/Recover_a_Tree_From_Preorder_Traversal.cpp)|python|Hard|
+|1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) |[c++](./src/1208_Get_Equal_Substrings_Within_Budget/Get_Equal_Substrings_Within_Budget.cpp)|python|Medium|

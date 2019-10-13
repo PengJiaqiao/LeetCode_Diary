@@ -13,14 +13,17 @@ if __name__ == "__main__":
         name = name + ' ' + arg
         name_ = name_ + '_' + arg
 
-    path = './src/' + sys.argv[1] + '_' + name_
+    num, _ = sys.argv[1].split('.')
+    if len(num) < 4:
+        num = '0' + num
+    path = './src/' + num + '_' + name_
     folder = os.path.exists(path)
     if not folder:
         os.makedirs(path)
     file = open(path + '/' + name_ + '.cpp', 'w')
     file.close()
-    text = '|' + sys.argv[1] + '|' + '[' + name + ']' + '(' + sys.argv[-2] + ')' + ' ' + '|[c++](./src/' + \
-        sys.argv[1] + '_' + name_ + '/' + name_ + \
+    text = '|' + num + '|' + '[' + name + ']' + '(' + sys.argv[-2] + ')' + ' ' + '|[c++](./src/' + \
+        num + '_' + name_ + '/' + name_ + \
         '.cpp)'+'|python|' + sys.argv[-1] + '|' + '\n'
     print(text)
     # pyperclip.copy(text)
