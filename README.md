@@ -318,6 +318,7 @@
 |0785|[Is Graph Bipartite?](https://leetcode.com/problems/is-graph-bipartite/) |[c++](./src/0785_Is_Graph_Bipartite?/Is_Graph_Bipartite?.cpp)|python|Medium|
 |0796|[Rotate String](https://leetcode.com/problems/rotate-string/) |c++|[python](./src/0796_Rotate_String/Rotate_String.py) |Easy|
 |0825|[Friends Of Appropriate Ages](https://leetcode.com/problems/friends-of-appropriate-ages/) |[c++](./src/0825_Friends_Of_Appropriate_Ages/Friends_Of_Appropriate_Ages.cpp)|python|Medium|
+|0828|[Unique Letter String](https://leetcode.com/problems/unique-letter-string/) |[c++](./src/0828_Unique_Letter_String/Unique_Letter_String.cpp)|python|Medium|
 |0845|[Longest Mountain in Array](https://leetcode.com/problems/longest-mountain-in-array/) |[c++](./src/0845_Longest_Mountain_in_Array/Longest_Mountain_in_Array.cpp) |python|Medium|
 |0870|[Advantage Shuffle](https://leetcode.com/problems/advantage-shuffle/) |[c++](./src/0870_Advantage_Shuffle/Advantage_Shuffle.cpp)|python|Medium|
 |0872|[Leaf-Similar Trees](https://leetcode.com/problems/leaf-similar-trees/) |c++|[python](./src/0872_Leaf_Similar_Trees/Leaf_Similar_Trees.py) |Easy|
@@ -326,6 +327,7 @@
 |0905|[Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) |[c++](./src/0905_Sort_Array_By_Parity/Sort_Array_By_Parity.cpp) |python|Easy|
 |0912|[Sort an Array](https://leetcode.com/problems/sort-an-array/) |[c++](./src/0912_Sort_an_Array/Sort_an_Array.cpp)|python|Medium|
 |0934|[Shortest Bridge](https://leetcode.com/problems/shortest-bridge/) |[c++](./src/0934_Shortest_Bridge/Shortest_Bridge.cpp)|python|Medium|
+|0941|[Valid Mountain Array](https://leetcode.com/problems/valid-mountain-array/) |[c++](./src/0941_Valid_Mountain_Array/Valid_Mountain_Array.cpp)|python|Easy|
 |0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) |[c++](./src/0954_Array_of_Doubled_Pairs/Array_of_Doubled_Pairs.cpp)|python|Medium|
 |0954|[Array of Doubled Pairs](https://leetcode.com/problems/array-of-doubled-pairs/) |[c++](./src/0954_Array_of_Doubled_Pairs/Array_of_Doubled_Pairs.cpp)|python|Medium|
 |0969|[Pancake Sorting](https://leetcode.com/problems/pancake-sorting/) |c++|[python](./src/0969_Pancake_Sorting/Pancake_Sorting.py) |Medium|
