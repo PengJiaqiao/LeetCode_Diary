@@ -346,4 +346,5 @@
 |1023|[Binary String With Substrings Representing 1 To N](https://leetcode.com/problems/binary-string-with-substrings-representing-1-to-n/) |c++|[python](./src/1023_Binary_String_With_Substrings_Representing_1_To_N/Binary_String_With_Substrings_Representing_1_To_N.py) |Medium|
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) |[c++](./src/1027_Longest_Arithmetic_Sequence/Longest_Arithmetic_Sequence.cpp)|python|Medium|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |[c++](./src/1028_Recover_a_Tree_From_Preorder_Traversal/Recover_a_Tree_From_Preorder_Traversal.cpp)|python|Hard|
+|1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/) |[c++](./src/1048_Longest_String_Chain/Longest_String_Chain.cpp)|python|Medium|
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) |[c++](./src/1208_Get_Equal_Substrings_Within_Budget/Get_Equal_Substrings_Within_Budget.cpp)|python|Medium|
