@@ -191,6 +191,7 @@
 |0297|[Serialize and Deserialize Binary Tree](https://leetcode.com/problems/serialize-and-deserialize-binary-tree/) |c++|[python](./src/0297_Serialize_and_Deserialize_Binary_Tree/Serialize_and_Deserialize_Binary_Tree.py) |Hard|
 |0300|[Longest Increasing Subsequence](https://leetcode.com/problems/longest-increasing-subsequence/) |[c++](./src/0300_Longest_Increasing_Subsequence/Longest_Increasing_Subsequence.cpp) |python|Medium|
 |0303|[Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) |[c++](./src/0303_Range_Sum_Query_Immutable/Range_Sum_Query_Immutable.cpp) |python|Easy|
+|0306|[Additive Number](https://leetcode.com/problems/additive-number/) |[c++](./src/0306_Additive_Number/Additive_Number.cpp)|python|Medium|
 |0309|[Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/) |[c++](./src/0309_Best_Time_to_Buy_and_Sell_Stock_with_Cooldown/Best_Time_to_Buy_and_Sell_Stock_with_Cooldown.cpp) |python|Medium|
 |0312|[Burst Balloons](https://leetcode.com/problems/burst-balloons/) |c++|[python](./src/0312_Burst_Balloons/Burst_Balloons.py) |Hard|
 |0313|[Super Ugly Number](https://leetcode.com/problems/super-ugly-number/) |[c++](./src/0313_Super_Ugly_Number/Super_Ugly_Number.cpp) |python|Medium|
@@ -272,6 +273,7 @@
 |0572|[Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/) |[c++](./src/0572_Subtree_of_Another_Tree/Subtree_of_Another_Tree.cpp) |python|Easy|
 |0581|[Shortest Unsorted Continuous Subarray](https://leetcode.com/problems/shortest-unsorted-continuous-subarray/) |c++|[python](./src/0581_Shortest_Unsorted_Continuous_Subarray/Shortest_Unsorted_Continuous_Subarray.py) |Easy|
 |0583|[Delete Operation for Two Strings](https://leetcode.com/problems/delete-operation-for-two-strings/) |[c++](./src/0583_Delete_Operation_for_Two_Strings/Delete_Operation_for_Two_Strings.cpp) |python|Medium|
+|0589|[N-ary Tree Preorder Traversal](https://leetcode.com/problems/n-ary-tree-preorder-traversal/) |[c++](./src/0589_N-ary_Tree_Preorder_Traversal/N-ary_Tree_Preorder_Traversal.cpp)|python|Easy|
 |0594|[Longest Harmonious Subsequence](https://leetcode.com/problems/longest-harmonious-subsequence/) |[c++](./src/0594_Longest_Harmonious_Subsequence/Longest_Harmonious_Subsequence.cpp) |python|Easy|
 |0600|[Non-negative Integers without Consecutive Ones](https://leetcode.com/problems/non-negative-integers-without-consecutive-ones/) |[c++](./src/0600_Non-negative_Integers_without_Consecutive_Ones/Non-negative_Integers_without_Consecutive_Ones.cpp)|python|Hard|
 |0605|[Can Place Flowers](https://leetcode.com/problems/can-place-flowers/) |[c++](./src/0605_Can_Place_Flowers/Can_Place_Flowers.cpp) |python|Easy|
