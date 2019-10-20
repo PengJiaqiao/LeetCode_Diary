@@ -127,6 +127,7 @@
 |0143|[Reorder List](https://leetcode.com/problems/reorder-list/) |[c++](./src/0143_Reorder_List/Reorder_List.cpp) |python|Medium|
 |0144|[Binary Tree Preorder Traversal](https://leetcode.com/problems/binary-tree-preorder-traversal/) |[c++](./src/0144_Binary_Tree_Preorder_Traversal/Binary_Tree_Preorder_Traversal.cpp) |python|Medium|
 |0145|[Binary Tree Postorder Traversal](https://leetcode.com/problems/binary-tree-postorder-traversal/) |[c++](./src/0145_Binary_Tree_Postorder_Traversal/Binary_Tree_Postorder_Traversal.cpp) |python|Hard|
+|0146|[LRU Cache](https://leetcode.com/problems/lru-cache/) |[c++](./src/0146_LRU_Cache/LRU_Cache.cpp)|python|Medium|
 |0147|[Insertion Sort List](https://leetcode.com/problems/insertion-sort-list/) |c++|[python](./src/0147_Insertion_Sort_List/Insertion_Sort_List.py) |Medium|
 |0148|[Sort List](https://leetcode.com/problems/sort-list/) |c++|[python](./src/0148_Sort_List/Sort_List.py) |Medium|
 |0150|[Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) |c++|[python](./src/0150_Evaluate_Reverse_Polish_Notation/Evaluate_Reverse_Polish_Notation.py) |Medium|
@@ -349,4 +350,5 @@
 |1027|[Longest Arithmetic Sequence](https://leetcode.com/problems/longest-arithmetic-sequence/) |[c++](./src/1027_Longest_Arithmetic_Sequence/Longest_Arithmetic_Sequence.cpp)|python|Medium|
 |1028|[Recover a Tree From Preorder Traversal](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/) |[c++](./src/1028_Recover_a_Tree_From_Preorder_Traversal/Recover_a_Tree_From_Preorder_Traversal.cpp)|python|Hard|
 |1048|[Longest String Chain](https://leetcode.com/problems/longest-string-chain/) |[c++](./src/1048_Longest_String_Chain/Longest_String_Chain.cpp)|python|Medium|
+|1130|[Minimum Cost Tree From Leaf Values](https://leetcode.com/problems/minimum-cost-tree-from-leaf-values/) |[c++](./src/1130_Minimum_Cost_Tree_From_Leaf_Values/Minimum_Cost_Tree_From_Leaf_Values.cpp)|python|Medium|
 |1208|[Get Equal Substrings Within Budget](https://leetcode.com/problems/get-equal-substrings-within-budget/) |[c++](./src/1208_Get_Equal_Substrings_Within_Budget/Get_Equal_Substrings_Within_Budget.cpp)|python|Medium|
