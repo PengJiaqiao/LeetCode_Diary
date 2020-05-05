@@ -20,7 +20,7 @@ if __name__ == "__main__":
     folder = os.path.exists(path)
     if not folder:
         os.makedirs(path)
-    file = open(path + '/' + name_ + '.cpp', 'w')
+    file = open(path + '/' + name_ + '.py', 'w')
     file.close()
     text = '|' + num + '|' + '[' + name + ']' + '(' + sys.argv[-2] + ')' + ' ' + '|[c++](./src/' + \
         num + '_' + name_ + '/' + name_ + \
